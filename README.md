@@ -10,3 +10,5 @@ Libraries I use for Android application programming.
 |5.|PermissionsDispatcher|https://github.com/hotchemi/PermissionsDispatcher
 |6.|AndroidPdfViewer|https://github.com/barteksc/AndroidPdfViewer
 |7.|Fonts|https://github.com/google/fonts
+|7.|Fancybuttons|https://github.com/medyo/Fancybuttons
+
